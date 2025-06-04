@@ -148,7 +148,34 @@ i)in resource select resources(/) and created method
 
 ![Screenshot 2025-06-04 173706](https://github.com/user-attachments/assets/03b7e67a-c6fc-43c9-9b3d-02181643443d)
 
-j)Choose method type Post and Integration type Lambda Function
+j)Choose method type Post and Integration type Lambda Function and enable Proxy ,select lambda function and cerate function
+
+![Screenshot 2025-06-04 173822](https://github.com/user-attachments/assets/fffc3c20-a731-46af-a0fd-f3fbdc066b37)
+
+k) under method request settings click on edit
+
+![Screenshot 2025-06-04 173932](https://github.com/user-attachments/assets/e753260c-f33e-4c15-a62a-d5bd2ca70d0a)
+
+l)choose Authorization  and save
+
+![Screenshot 2025-06-04 174002](https://github.com/user-attachments/assets/13ff1221-a710-4402-afc2-0732d6c35877)
+
+m)Deploy API
+
+![Screenshot 2025-06-04 174044](https://github.com/user-attachments/assets/e748014c-f4b8-4385-b212-b4c061011424)
+
+n)copy invoke url and paste in your configuration file
+
+![Screenshot 2025-06-04 174155](https://github.com/user-attachments/assets/84e313bb-421c-4224-9c73-29267eeff504)
+
+
+
+
+
+
+    *********************************DONE**********************************************
+
+
 
 
 
